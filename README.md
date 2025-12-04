@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://suitsv2.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**SuitsV2** is an advanced AI-powered legal research platform that helps users explore Indian court judgements like never before. With AI summarization, semantic search, chatbot queries, topic tagging, and powerful insights—all in a beautiful, responsive interface—SuitsV2 transforms complex legal texts into accessible, searchable knowledge.
+**Suits** is an advanced AI-powered legal research platform that helps users explore Indian court judgements like never before. With AI summarization, semantic search, chatbot queries, topic tagging, and powerful insights—all in a beautiful, responsive interface—Suits transforms complex legal texts into accessible, searchable knowledge.
 
 ---
 
@@ -48,7 +48,7 @@ Here is a screenshot from the live demo:
 |-----------------|-----------------|--------------------------|
 | Vite + React    | Express.js      | Gemini 2 Flash API       |
 | Tailwind CSS    | MongoDB (Atlas) | Pinecone (Vector DB)     |
-| Redux            | REST API        | Cloudinary (Files/Images)|
+| Redux           | REST API        | Cloudinary (Files/Images)|
 | Vercel (Deploy) | Render (Deploy) | Resend (Emails)          |
 
 ---
@@ -77,8 +77,8 @@ suitsv2/
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/changrtanay/suitsv2.git
-cd suitsv2
+git clone https://github.com/changrtanay/suits.git
+cd suits
 ```
 
 ---

@@ -1,4 +1,5 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://suitsv2.vercel.app/)
+##### Live Demo: https://suitsv2.vercel.app/
 # ⚖️ Suits – AI-Powered Indian Judgement Explorer
 
 **Suits** is an advanced AI-powered legal research platform that helps users explore Indian court judgements like never before. With AI summarization, semantic search, chatbot queries, topic tagging, and powerful insights—all in a beautiful, responsive interface—Suits transforms complex legal texts into accessible, searchable knowledge.
